@@ -203,4 +203,9 @@ WindowBlinds_B,32,32,32,255,0
 WindowBlinds_Closed,32,32,32,255,0
 WindowBlinds_D,32,32,32,255,0
 Stairs_Unknown,125,218,3,255,15
+Buckseo,0,67,130,255,2
+Black,0,0,0,255,0
+Wall,0,127,91,255,19
+DiningTable,0,101,68,255,16
+OfficeTable,0,134,5,255,16
 Invalid,255,255,255,255,0

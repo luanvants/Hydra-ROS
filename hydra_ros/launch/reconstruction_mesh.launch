@@ -1,0 +1,5 @@
+<launch>
+    
+    <node pkg="hydra_ros" type="reconstruct_mesh" name="reconstruct_mesh"/>
+
+</launch>
