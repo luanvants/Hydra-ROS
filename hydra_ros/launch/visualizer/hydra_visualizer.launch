@@ -2,7 +2,7 @@
 <launch>
 
   <arg name="visualizer_frame" default="map"/>
-  <arg name="scene_graph" doc="scene graph filename to show"/>
+  <arg name="scene_graph" default="uhumans2/frontend/dsg_with_mesh.json" doc="scene graph filename to show"/>
   <arg name="scene_graph_dir" default="$(find hydra)/output" doc="directory of scene graph file"/>
   <arg name="scene_graph_path" value="$(arg scene_graph_dir)/$(arg scene_graph)" doc="full path to scene graph to show"/>
   <arg name="publish_view_transforms" default="false" doc="publish top-down and orthographic views"/>
