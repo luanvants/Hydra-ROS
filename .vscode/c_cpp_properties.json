@@ -1,0 +1,32 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/opt/ros/noetic/include/**",
+        "/home/nvhung/hydra_ws/devel/include/**",
+        "/home/nvhung/hydra_ws/src/config_utilities/config_utilities/include/**",
+        "/home/nvhung/hydra_ws/src/Hydra/include/**",
+        "/home/nvhung/hydra_ws/src/hydra_ros/hydra_ros/include/**",
+        "/home/nvhung/hydra_ws/src/kimera_pgmo/kimera_pgmo/include/**",
+        "/home/nvhung/hydra_ws/src/kimera_pgmo/kimera_pgmo_ros/include/**",
+        "/home/nvhung/hydra_ws/src/kimera_pgmo/kimera_pgmo_rviz/include/**",
+        "/home/nvhung/hydra_ws/src/kimera_rpgo/include/**",
+        "/home/nvhung/hydra_ws/src/pose_graph_tools/pose_graph_tools/include/**",
+        "/home/nvhung/hydra_ws/src/pose_graph_tools/pose_graph_tools_ros/include/**",
+        "/home/nvhung/hydra_ws/src/spark_dsg/include/**",
+        "/home/nvhung/hydra_ws/src/spatial_hash/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
